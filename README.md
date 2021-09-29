@@ -1,4 +1,4 @@
-# Image Resotation
+# Image Restoration
 **1. Introduction:**
 
 Image is a very common information carrier, but the image may be affected by noise due to various reasons in the process of image acquisition, transmission and storage. How to remove the influence of noise and restore the original image information is an important research problem in computer vision.
