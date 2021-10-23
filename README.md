@@ -4,7 +4,7 @@
 Image is a very common information carrier, but the image may be affected by noise due to various reasons in the process of image acquisition, transmission and storage. How to remove the influence of noise and restore the original image information is an important research problem in computer vision.
 Common image restoration algorithms include median filtering based on spatial domain, wavelet denoising based on wavelet domain, nonlinear diffusion filtering based on partial differential equation, etc. In this experiment, we want to add noise to the image, and add noise to the image based on linear regression model denoising.
 
-MNIST is a handwritten digit data set. The training set contains 60,000 handwritten digits, and the test set contains 10,000 handwritten digits, with a total of 10 categories.
+
  
  
 **2. Procedure:**
